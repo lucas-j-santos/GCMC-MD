@@ -1,0 +1,13 @@
+#number of pseudo atoms
+10
+#type     print  as chem    oxi mass    charge   pol.
+Zn_a      yes   Zn  Zn   0   65.37      1.275    0.0
+H_a       yes   H   H    0   1.0000     0.150    0.0
+C_a       yes   C   C    0   12.000     0.475    0.0
+C_b       yes   C   C    0   12.000     0.125    0.0
+C_c       yes   C   C    0   12.000    -0.150    0.0
+O_a       yes   O   O    0   15.999    -1.500    0.0
+O_b       yes   O   O    0   15.999    -0.600    0.0
+CH4       yes   C   C    0   16.04246   0.000    0.0
+O_co2     yes   O   O    0   15.999    -0.350    0.0
+C_co2     yes   C   C    0   12.000     0.700    0.0
