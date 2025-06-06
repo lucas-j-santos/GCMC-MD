@@ -1,0 +1,31 @@
+DOI,""
+adsorbent
+hashkey,"NIST-MATDB-2c9380bddc59f547484ff729eab7d7cb"
+name,"IRMOF-1"
+adsorbates
+InChIKey,"CURLTUGMZLYLDI-UHFFFAOYSA-N"
+name,"Carbon Dioxide"
+temperature,"195"
+adsorptionUnits,"mg/g"
+pressureUnits,"kPa"
+
+"pressure","total_adsorption"
+1.755, 37.702
+3.654, 64.632
+5.363, 80.790
+9.588, 129.264
+12.009, 150.808
+13.766, 166.966
+14.810, 188.510
+16.707, 231.598
+18.368, 258.528
+19.313, 344.704
+19.357, 401.257
+20.089, 840.215
+20.301, 1244.165
+21.534, 1287.253
+24.097, 1316.876
+26.233, 1341.113
+28.702, 1368.043
+34.781, 1397.666
+40.054, 1400.359

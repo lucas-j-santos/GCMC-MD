@@ -1,15 +1,30 @@
-; minim.mdp - used as input into grompp to generate em.tpr
-; Parameters describing what to do, when to stop and what to save
-integrator  = steep         ; Algorithm (steep = steepest descent minimization)
-emtol       = 1000.0        ; Stop minimization when the maximum force < 1000.0 kJ/mol/nm
-emstep      = 0.01          ; Minimization step size
-nsteps      = 50000         ; Maximum number of (minimization) steps to perform
+integrator          = steep
+nsteps              = 500000
+emstep              = 0.002
+emtol               = 10
+dt                  = 0.002
 
-; Parameters describing how to find the neighbors of each atom and how to calculate the interactions
-nstlist         = 1         ; Frequency to update the neighbor list and long range forces
-cutoff-scheme   = Verlet    ; Buffered neighbor searching
-ns_type         = grid      ; Method to determine neighbor list (simple, grid)
-coulombtype     = PME       ; Treatment of long range electrostatic interactions
-rcoulomb        = 1.2       ; Short-range electrostatic cut-off
-rvdw            = 1.2       ; Short-range Van der Waals cut-off
-pbc             = xyz       ; Periodic Boundary Conditions in all 3 dimensions
+nstxout             = 10000
+nstvout             = 10000
+nstenergy           = 1000
+nstlog              = 1000
+
+cutoff-scheme       = Verlet
+
+vdwtype         = Cut-off
+vdw-modifier    = Potential-shift
+rvdw            = 1.2
+
+coulombtype             = P3M-AD
+coulomb-modifier        = Potential-shift
+rcoulomb                = 1.2
+fourierspacing      = 0.1
+ewald-rtol          = 0.000001
+
+tcoupl              = no
+
+pcoupl              = no
+
+pbc                 = xyz
+
+DispCorr            = no

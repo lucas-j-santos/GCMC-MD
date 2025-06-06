@@ -5,7 +5,6 @@ import os
 import re
 import subprocess
 import mdtraj
-from pymatgen.core import Structure, Lattice
 from cdft.pcsaft_eos import pcsaft
 from utils import *
 
@@ -15,11 +14,12 @@ epsilon = torch.tensor([163.33], dtype=torch.float64)
 q = torch.tensor([4.4], dtype=torch.float64) # DA
 parameters = {'m':m, 'sigma':sigma, 'epsilon':epsilon, 'q':q}
 
-
 framework_name = 'IRMOF-1'
 temperature = 195.0
-pressure = torch.hstack((torch.arange(1e3,1e4,1e3,dtype=torch.float64),torch.arange(1e4,2e4,1e3,dtype=torch.float64),
-              torch.range(2e4,4e4,5e3,dtype=torch.float64)))
+data = pd.read_csv('CO2_IRMOF-1_195K_exp.csv', skiprows=11)
+pressure = torch.tensor(data['pressure'].to_numpy()*1e3, dtype=torch.float64)
+# pressure = torch.hstack((torch.arange(1e3,1e4,1e3,dtype=torch.float64),torch.arange(1e4,2e4,1e3,dtype=torch.float64),
+#               torch.range(2e4,4e4,5e3,dtype=torch.float64)))
 
 bulk_density = torch.empty_like(pressure)
 fugacity_coefficient = torch.empty_like(pressure)
@@ -46,7 +46,7 @@ current_dir = os.getcwd()
 
 for k in range(len(pressure)):
 
-    new_dirn = f'pressure_{pressure[k].numpy():.1e}_Pa'
+    new_dirn = f'pressure_{1e-3*pressure[k].numpy():.2f}_kPa'
     os.mkdir(new_dirn)
     os.chdir(new_dirn)
     subprocess.run(f'cp ../force_field_mixing_rules.def ../force_field.def ../{molecule_name}.def ../pseudo_atoms.def .', 
