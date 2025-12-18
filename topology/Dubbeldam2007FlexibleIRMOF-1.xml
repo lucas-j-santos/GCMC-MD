@@ -1,0 +1,51 @@
+<ForceField name="Dubbeldam2007FlexibleIRMOF-1" combining_rule="lorentz">
+  <!--XML units: kJ/mol for energies, nm for lengths, and radians for angles.-->
+  <!--For conversion from K to kJ/mol, we use: 1.380649e-23*6.02214076e23*1e-3.-->
+  <AtomTypes>
+    <Type name="C1" class="C1" element="_C1" mass="12.011" def="_C1" desc="C1"/>
+    <Type name="C2" class="C2" element="_C2" mass="12.011" def="_C2" desc="C2"/>
+    <Type name="C3" class="C3" element="_C3" mass="12.011" def="_C3" desc="C3"/>
+    <Type name="H1" class="H1" element="_H1" mass="1.008" def="_H1" desc="H1"/>
+    <Type name="Zn1" class="Zn1" element="_Zn1" mass="65.38" def="_Zn1" desc="Zn1"/>
+    <Type name="O1" class="O1" element="_O1" mass="15.999" def="_O1" desc="O1"/>
+    <Type name="O2" class="O2" element="_O2" mass="15.999" def="_O2" desc="O2"/>
+  </AtomTypes>
+  <HarmonicBondForce>
+    <Bond class1="O2" class2="C1" length="0.127" k="452173.73502564576"/>
+    <Bond class1="C1" class2="C2" length="0.144" k="294124.11511717085"/>
+    <Bond class1="C2" class2="C3" length="0.1365" k="401932.7632091931"/>
+    <Bond class1="C3" class2="C3" length="0.1365" k="401932.7632091931"/>
+    <Bond class1="C3" class2="H1" length="0.095" k="304309.3318244086"/>
+  </HarmonicBondForce>
+  <HarmonicAngleForce>
+    <Angle class1="O2" class2="C1" class3="O2" angle="2.303834612632515" k="1130.4343375641145"/>
+    <Angle class1="O2" class2="C1" class3="C2" angle="1.9896753472735358" k="456.31433740948614"/>
+    <Angle class1="C1" class2="C2" class3="C3" angle="2.0943951023931953" k="290.3992358642382"/>
+    <Angle class1="C3" class2="C2" class3="C3" angle="2.0943951023931953" k="753.6228917094098"/>
+    <Angle class1="C3" class2="C3" class3="C2" angle="2.0943951023931953" k="753.6228917094098"/>
+    <Angle class1="C2" class2="C3" class3="H1" angle="2.0943951023931953" k="309.82182054024423"/>
+    <Angle class1="C3" class2="C3" class3="H1" angle="2.0943951023931953" k="309.82182054024423"/>
+  </HarmonicAngleForce>
+  <PeriodicTorsionForce>
+    <Proper class1="O2" class2="C1" class3="C2" class4="C3" periodicity1="2" phase1="3.14159265359" k1="10.467076989993116"/>
+    <Proper class1="C1" class2="C2" class3="C3" class4="H1" periodicity1="2" phase1="3.14159265359" k1="12.560658677244101"/>
+    <Proper class1="C1" class2="C2" class3="C3" class4="C3" periodicity1="2" phase1="3.14159265359" k1="12.560658677244101"/>
+    <Proper class1="C2" class2="C3" class3="C3" class4="H1" periodicity1="2" phase1="3.14159265359" k1="12.560658677244101"/>
+    <Proper class1="C2" class2="C3" class3="C3" class4="C2" periodicity1="2" phase1="3.14159265359" k1="12.560658677244101"/>
+    <Proper class1="C3" class2="C2" class3="C3" class4="C3" periodicity1="2" phase1="3.14159265359" k1="12.560658677244101"/>
+    <Proper class1="H1" class2="C3" class3="C2" class4="C3" periodicity1="2" phase1="3.14159265359" k1="12.560658677244101"/>
+    <Proper class1="H1" class2="C3" class3="C3" class4="H1" periodicity1="2" phase1="3.14159265359" k1="12.560658677244101"/>
+    <Improper class1="C1" class2="C2" class3="O2" class4="O2" periodicity1="2" phase1="3.14159265359" k1="41.87163374501972"/>
+    <Improper class1="C2" class2="C3" class3="C3" class4="C1" periodicity1="2" phase1="3.14159265359" k1="41.879948207637874"/>
+    <Improper class1="C3" class2="C2" class3="C3" class4="H1" periodicity1="2" phase1="3.14159265359" k1="1.5489843857619487"/>
+  </PeriodicTorsionForce>
+  <NonbondedForce coulomb14scale="1.0" lj14scale="1.0">
+    <Atom type="Zn1" charge="1.275" sigma="0.27" epsilon="0.0034920742996243604"/>
+    <Atom type="O1" charge="-1.5" sigma="0.298" epsilon="5.820123832707268"/>
+    <Atom type="O2" charge="-0.6" sigma="0.311" epsilon="0.5861696145798034"/>
+    <Atom type="C1" charge="0.475" sigma="0.374" epsilon="0.3907797430532023"/>
+    <Atom type="C2" charge="0.125" sigma="0.347" epsilon="0.3979301809048141"/>
+    <Atom type="C3" charge="-0.15" sigma="0.347" epsilon="0.3979301809048141"/>
+    <Atom type="H1" charge="0.15" sigma="0.285" epsilon="0.06360563902887229"/>
+  </NonbondedForce>
+</ForceField>

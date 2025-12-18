@@ -1,0 +1,28 @@
+#!/bin/bash
+#SBATCH --job-name=IRMOF-1    
+#SBATCH --output=job_output.txt 
+#SBATCH --error=job_error.txt   
+#SBATCH --ntasks=1              
+#SBATCH --cpus-per-task=28     
+#SBATCH --gpus-per-task=1
+#SBATCH --mem=30G
+
+# >>> mamba initialize >>>
+# !! Contents within this block are managed by 'mamba shell init' !!
+export MAMBA_EXE='/home/lucasjs/miniforge3/bin/mamba';
+export MAMBA_ROOT_PREFIX='/home/lucasjs/miniforge3';
+__mamba_setup="$("$MAMBA_EXE" shell hook --shell bash --root-prefix "$MAMBA_ROOT_PREFIX" 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__mamba_setup"
+else
+    alias mamba="$MAMBA_EXE"  # Fallback on help from mamba activate
+fi
+unset __mamba_setup
+# <<< mamba initialize <<<
+
+source /home/public755/Programs/gromacs-2024.5/bin/GMXRC
+mamba activate torch
+srun python mc_md.py
+
+# sbatch submiter.srm
+# scancel <jobid> 

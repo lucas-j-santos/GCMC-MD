@@ -1,0 +1,30 @@
+integrator          = steep
+nsteps              = 500000
+emstep              = 0.002
+emtol               = 10
+dt                  = 0.002
+
+nstxout             = 10000
+nstvout             = 10000
+nstenergy           = 1000
+nstlog              = 1000
+
+cutoff-scheme       = Verlet
+
+vdwtype         = Cut-off
+vdw-modifier    = Potential-shift
+rvdw            = 1.2
+
+coulombtype             = P3M-AD
+coulomb-modifier        = Potential-shift
+rcoulomb                = 1.2
+fourierspacing      = 0.1
+ewald-rtol          = 0.000001
+
+tcoupl              = no
+
+pcoupl              = no
+
+pbc                 = xyz
+
+DispCorr            = no

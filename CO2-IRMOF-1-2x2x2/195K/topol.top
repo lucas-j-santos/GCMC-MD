@@ -1,0 +1,29 @@
+;
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs      
+1               2               yes                     
+
+[ atomtypes ]
+; name    at.num    mass    charge ptype  sigma      epsilon
+Zn_a            0  65.380000  0.00000000  A           0.27   0.0034920743
+O_a             0  15.999000  0.00000000  A          0.298      5.8201238
+O_b             0  15.999000  0.00000000  A          0.311     0.58616961
+C_a             0  12.011000  0.00000000  A          0.374     0.39077974
+C_b             0  12.011000  0.00000000  A          0.347     0.39793018
+C_c             0  12.011000  0.00000000  A          0.347     0.39793018
+H_a             0   1.008000  0.00000000  A          0.285    0.063605639
+OC              8  15.999000  0.00000000  A          0.305     0.65684255
+CO              6  12.011000  0.00000000  A           0.28     0.22449049
+
+
+#include "IRMOF-1.itp"
+#include "CO2_trappe.itp"
+
+[ system ]
+; Name
+Flexible IRMOF-1
+
+[ molecules ]
+; Compound       #mols
+IRMOF-1          1
+CO2              0

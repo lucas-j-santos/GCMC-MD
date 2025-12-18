@@ -1,0 +1,20 @@
+;
+[ moleculetype ]
+; Name            nrexcl
+CO2          3
+
+[ atoms ]
+;   nr       type  resnr residue  atom   cgnr    charge       mass  typeB    chargeB      massB
+; residue    1 CO2 rtp CO2 q 0.0
+    1         OC      1    CO2      O      1 -0.35000000  15.999000   ; qtot -0.350000
+    2         CO      1    CO2      C      2 0.70000000  12.011000   ; qtot 0.350000
+    3         OC      1    CO2      O      3 -0.35000000  15.999000   ; qtot 0.000000
+
+[ bonds ]
+;    ai     aj funct         c0         c1         c2         c3
+      1      2     1   0.11600 376560.000000
+      2      3     1   0.11600 376560.000000
+
+[ angles ]
+;    ai     aj     ak funct         c0         c1         c2         c3
+      1      2      3     1   180.0000000 460.240000

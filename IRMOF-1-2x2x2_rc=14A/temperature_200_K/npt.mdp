@@ -1,0 +1,48 @@
+; Run control
+integrator              = md        ; leap-frog      
+nsteps                  = 2000000   ; 2 * 50000 = 100 ps
+dt                      = 0.001     ; 1 fs
+                
+; Output control
+nstxout                 = 500       ; save coordinates every 1.0 ps
+nstvout                 = 500       ; save velocities every 1.0 ps
+nstenergy               = 500       ; save energies every 1.0 ps
+nstlog                  = 500       ; update log file every 1.0 ps
+                
+; Neighbor searching
+cutoff-scheme           = Verlet    
+nstlist                 = 10       
+pbc                     = xyz
+                      
+; Electrostatics
+coulombtype             = PME
+coulomb-modifier        = Potential-shift
+rcoulomb                = 1.40 
+
+; Van der Waals
+vdwtype                 = Cut-off 
+vdw-modifier            = Potential-shift
+rvdw                    = 1.40
+DispCorr                = no
+
+; Ewald
+ewald-rtol              = 1e-6
+
+; Temperature coupling
+tcoupl                  = v-rescale
+tc-grps                 = System
+tau_t                   = 0.1
+ref_t                   = 200.00
+
+; Pressure coupling 
+pcoupl                  = c-rescale
+pcoupltype              = isotropic
+tau_p                   = 1.0
+ref_p                   = 1.00
+compressibility         = 4.5e-5
+refcoord-scaling        = all
+
+; Velocity generation
+gen_vel                 = no
+gen-temp                = 200.00
+gen-seed                = -1 
