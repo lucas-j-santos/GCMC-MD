@@ -1,0 +1,40 @@
+NumberOfInitializationCycles 5000      
+NumberOfEquilibrationCycles  0
+NumberOfProductionCycles     20000
+
+UseMaxStep  no
+
+UseChargesFromCIFFile no
+
+RestartFile no
+RandomSeed  0
+
+NumberOfTrialPositions 10
+NumberOfTrialOrientations 10
+
+AdsorbateAllocateSpace 10240
+NumberOfSimulations 1
+SingleSimulation yes
+
+InputFileType cif
+FrameworkName IRMOF-1
+UnitCells 0 1 1 1
+
+ChargeMethod None
+Temperature 78.0
+Pressure    130.0
+
+OverlapCriteria 1e5
+CutOffVDW 14.00
+CutOffCoulomb 14.00
+EwaldPrecision 1e-6
+
+SaveOutputToFile yes
+
+Component 0 MoleculeName             argon
+            IdealGasRosenbluthWeight 1.0
+            FugacityCoefficient      0.9999
+            TranslationProbability   1.0
+            ReinsertionProbability   1.0
+            SwapProbability          1.0
+            CreateNumberOfMolecules  1959

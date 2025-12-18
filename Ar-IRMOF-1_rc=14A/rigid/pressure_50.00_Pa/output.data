@@ -1,0 +1,818 @@
+================FUGACITY COEFFICIENT CALCULATION================
+Checking: Current Fugacity Coeff for 1 component: 1.00000
+Every Adsorbate Component has fugacity coefficient assigned, skip EOS calculation!
+----------------- MEMORY ALLOCAION STATUS -----------------
+System allocate_sizes are: 3392, 10240
+Component allocate_sizes are: 3392, 10240
+Allocated Blocksum size: 8001, vdw_real size: 8001, fourier_size: 0
+------------------------------------------------------------
+------------------- SIMULATION BOX PARAMETERS -----------------
+Pressure:        0.00000
+Box Volume:      137899.94184
+Box Beta:        0.01542
+Box Temperature: 78.00000
+---------------------------------------------------------------
+======================== CALCULATING INITIAL STAGE ENERGY ========================
+****** Calculating VDW + Real Energy (CPU) ******
+Host-Host   VDW: 0.00000; Real: 0.00000
+Host-Guest  VDW: 0.00000; Real: 0.00000
+Guest-Guest VDW: 0.00000; Real: 0.00000
+********** PRINTING COMPONENT ENERGIES**********
+Compoent [0-0], VDW: 0.00000, Real: 0.00000
+Compoent [0-1], VDW: 0.00000, Real: 0.00000
+Compoent [1-1], VDW: 0.00000, Real: 0.00000
+VDW + Real on the GPU took 0.00000 secs
+Total GPU Energy: 
+====================== DONE CALCULATING INITIAL STAGE ENERGY ======================
+Component 1, Need to create 191 full molecule
+Creating 0 Molecule for Component 1; There are 0 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 1 Molecule for Component 1; There are 1 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 2 Molecule for Component 1; There are 2 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 3 Molecule for Component 1; There are 3 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 4 Molecule for Component 1; There are 4 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 5 Molecule for Component 1; There are 5 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 6 Molecule for Component 1; There are 6 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 7 Molecule for Component 1; There are 7 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 8 Molecule for Component 1; There are 8 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 9 Molecule for Component 1; There are 9 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 10 Molecule for Component 1; There are 10 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 11 Molecule for Component 1; There are 11 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 12 Molecule for Component 1; There are 12 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 13 Molecule for Component 1; There are 13 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 14 Molecule for Component 1; There are 14 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 15 Molecule for Component 1; There are 15 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 16 Molecule for Component 1; There are 16 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 17 Molecule for Component 1; There are 17 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 18 Molecule for Component 1; There are 18 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 19 Molecule for Component 1; There are 19 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 20 Molecule for Component 1; There are 20 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 21 Molecule for Component 1; There are 21 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 22 Molecule for Component 1; There are 22 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 23 Molecule for Component 1; There are 23 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 24 Molecule for Component 1; There are 24 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 25 Molecule for Component 1; There are 25 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 26 Molecule for Component 1; There are 26 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 27 Molecule for Component 1; There are 27 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 28 Molecule for Component 1; There are 28 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 29 Molecule for Component 1; There are 29 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 30 Molecule for Component 1; There are 30 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 31 Molecule for Component 1; There are 31 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 32 Molecule for Component 1; There are 32 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 33 Molecule for Component 1; There are 33 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 34 Molecule for Component 1; There are 34 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 35 Molecule for Component 1; There are 35 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 36 Molecule for Component 1; There are 36 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 37 Molecule for Component 1; There are 37 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 38 Molecule for Component 1; There are 38 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 39 Molecule for Component 1; There are 39 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 40 Molecule for Component 1; There are 40 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 41 Molecule for Component 1; There are 41 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 42 Molecule for Component 1; There are 42 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 43 Molecule for Component 1; There are 43 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 44 Molecule for Component 1; There are 44 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 45 Molecule for Component 1; There are 45 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 46 Molecule for Component 1; There are 46 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 47 Molecule for Component 1; There are 47 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 48 Molecule for Component 1; There are 48 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 49 Molecule for Component 1; There are 49 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 50 Molecule for Component 1; There are 50 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 51 Molecule for Component 1; There are 51 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 52 Molecule for Component 1; There are 52 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 53 Molecule for Component 1; There are 53 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 54 Molecule for Component 1; There are 54 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 55 Molecule for Component 1; There are 55 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 56 Molecule for Component 1; There are 56 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 57 Molecule for Component 1; There are 57 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 58 Molecule for Component 1; There are 58 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 59 Molecule for Component 1; There are 59 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 60 Molecule for Component 1; There are 60 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 61 Molecule for Component 1; There are 61 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 62 Molecule for Component 1; There are 62 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 63 Molecule for Component 1; There are 63 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 64 Molecule for Component 1; There are 64 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 65 Molecule for Component 1; There are 65 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 66 Molecule for Component 1; There are 66 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 67 Molecule for Component 1; There are 67 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 68 Molecule for Component 1; There are 68 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 69 Molecule for Component 1; There are 69 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 70 Molecule for Component 1; There are 70 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 71 Molecule for Component 1; There are 71 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 72 Molecule for Component 1; There are 72 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 73 Molecule for Component 1; There are 73 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 74 Molecule for Component 1; There are 74 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 75 Molecule for Component 1; There are 75 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 76 Molecule for Component 1; There are 76 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 77 Molecule for Component 1; There are 77 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 78 Molecule for Component 1; There are 78 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 79 Molecule for Component 1; There are 79 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 80 Molecule for Component 1; There are 80 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 81 Molecule for Component 1; There are 81 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 82 Molecule for Component 1; There are 82 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 83 Molecule for Component 1; There are 83 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 84 Molecule for Component 1; There are 84 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 85 Molecule for Component 1; There are 85 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 86 Molecule for Component 1; There are 86 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 87 Molecule for Component 1; There are 87 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 88 Molecule for Component 1; There are 88 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 89 Molecule for Component 1; There are 89 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 90 Molecule for Component 1; There are 90 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 91 Molecule for Component 1; There are 91 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 92 Molecule for Component 1; There are 92 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 93 Molecule for Component 1; There are 93 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 94 Molecule for Component 1; There are 94 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 95 Molecule for Component 1; There are 95 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 96 Molecule for Component 1; There are 96 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 97 Molecule for Component 1; There are 97 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 98 Molecule for Component 1; There are 98 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 99 Molecule for Component 1; There are 99 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 100 Molecule for Component 1; There are 100 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 101 Molecule for Component 1; There are 101 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 102 Molecule for Component 1; There are 102 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 103 Molecule for Component 1; There are 103 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 104 Molecule for Component 1; There are 104 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 105 Molecule for Component 1; There are 105 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 106 Molecule for Component 1; There are 106 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 107 Molecule for Component 1; There are 107 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 108 Molecule for Component 1; There are 108 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 109 Molecule for Component 1; There are 109 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 110 Molecule for Component 1; There are 110 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 111 Molecule for Component 1; There are 111 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 112 Molecule for Component 1; There are 112 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 113 Molecule for Component 1; There are 113 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 114 Molecule for Component 1; There are 114 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 115 Molecule for Component 1; There are 115 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 116 Molecule for Component 1; There are 116 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 117 Molecule for Component 1; There are 117 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 118 Molecule for Component 1; There are 118 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 119 Molecule for Component 1; There are 119 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 120 Molecule for Component 1; There are 120 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 121 Molecule for Component 1; There are 121 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 122 Molecule for Component 1; There are 122 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 123 Molecule for Component 1; There are 123 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 124 Molecule for Component 1; There are 124 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 125 Molecule for Component 1; There are 125 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 126 Molecule for Component 1; There are 126 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 127 Molecule for Component 1; There are 127 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 128 Molecule for Component 1; There are 128 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 129 Molecule for Component 1; There are 129 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 130 Molecule for Component 1; There are 130 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 131 Molecule for Component 1; There are 131 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 132 Molecule for Component 1; There are 132 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 133 Molecule for Component 1; There are 133 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 134 Molecule for Component 1; There are 134 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 135 Molecule for Component 1; There are 135 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 136 Molecule for Component 1; There are 136 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 137 Molecule for Component 1; There are 137 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 138 Molecule for Component 1; There are 138 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 139 Molecule for Component 1; There are 139 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 140 Molecule for Component 1; There are 140 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 141 Molecule for Component 1; There are 141 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 142 Molecule for Component 1; There are 142 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 143 Molecule for Component 1; There are 143 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 144 Molecule for Component 1; There are 144 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 145 Molecule for Component 1; There are 145 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 146 Molecule for Component 1; There are 146 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 147 Molecule for Component 1; There are 147 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 148 Molecule for Component 1; There are 148 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 149 Molecule for Component 1; There are 149 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 150 Molecule for Component 1; There are 150 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 151 Molecule for Component 1; There are 151 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 152 Molecule for Component 1; There are 152 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 153 Molecule for Component 1; There are 153 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 154 Molecule for Component 1; There are 154 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 155 Molecule for Component 1; There are 155 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 156 Molecule for Component 1; There are 156 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 157 Molecule for Component 1; There are 157 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 158 Molecule for Component 1; There are 158 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 159 Molecule for Component 1; There are 159 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 160 Molecule for Component 1; There are 160 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 161 Molecule for Component 1; There are 161 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 162 Molecule for Component 1; There are 162 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 163 Molecule for Component 1; There are 163 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 164 Molecule for Component 1; There are 164 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 165 Molecule for Component 1; There are 165 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 166 Molecule for Component 1; There are 166 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 167 Molecule for Component 1; There are 167 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 168 Molecule for Component 1; There are 168 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 169 Molecule for Component 1; There are 169 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 170 Molecule for Component 1; There are 170 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 171 Molecule for Component 1; There are 171 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 172 Molecule for Component 1; There are 172 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 173 Molecule for Component 1; There are 173 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 174 Molecule for Component 1; There are 174 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 175 Molecule for Component 1; There are 175 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 176 Molecule for Component 1; There are 176 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 177 Molecule for Component 1; There are 177 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 178 Molecule for Component 1; There are 178 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 179 Molecule for Component 1; There are 179 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 180 Molecule for Component 1; There are 180 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 181 Molecule for Component 1; There are 181 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 182 Molecule for Component 1; There are 182 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 183 Molecule for Component 1; There are 183 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 184 Molecule for Component 1; There are 184 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 185 Molecule for Component 1; There are 185 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 186 Molecule for Component 1; There are 186 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 187 Molecule for Component 1; There are 187 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 188 Molecule for Component 1; There are 188 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 189 Molecule for Component 1; There are 189 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 190 Molecule for Component 1; There are 190 Molecules of that component in the System
+Delta E in creating molecules:
+======================== CALCULATING CREATE_MOLECULE STAGE ENERGY ========================
+****** Calculating VDW + Real Energy (CPU) ******
+Host-Host   VDW: 0.00000; Real: 0.00000
+Host-Guest  VDW: -112238.00011; Real: 0.00000
+Guest-Guest VDW: -6226.52550; Real: 0.00000
+********** PRINTING COMPONENT ENERGIES**********
+Compoent [0-0], VDW: 0.00000, Real: 0.00000
+Compoent [0-1], VDW: -112238.00011, Real: 0.00000
+Compoent [1-1], VDW: -6226.52550, Real: 0.00000
+VDW + Real on the GPU took 0.00056 secs
+Total GPU Energy: 
+====================== DONE CALCULATING CREATE_MOLECULE STAGE ENERGY ======================
+Running Simulation Boxes in SERIAL, currently [0] box; pres: 50.00000 [Pa], temp: 78.00000 [K]
+==================================
+== RUNNING INITIALIZATION PHASE ==
+==================================
+CBMC Uses 10 trial positions and 10 trial orientations
+Box 0, Volume: 137899.94184
+Total Volume: 137899.94184
+INITIALIZATION Cycle: 0, 177 Adsorbate Molecules, Total Energy: -117393.41555  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 177 Molecules  ||  
+======================== MOVE STATISTICS FOR COMPONENT [1] (argon) ========================
+=====================TRANSLATION MOVES=====================
+Translation Performed: 357732
+Translation Accepted: 5956
+Max Translation: 3.0933145229, 3.0933145229, 3.0933145229
+===========================================================
+=====================SWAP MOVES=====================
+Insertion Performed:   199989
+Insertion Accepted:    45730
+Deletion Performed:    199553
+Deletion Accepted:     45679
+Reinsertion Performed: 399924
+Reinsertion Accepted:  39445
+====================================================
+=====================IDENTITY SWAP MOVES=====================
+=============================================================
+================================================================================================
+===============================
+== INITIALIZATION PHASE ENDS ==
+===============================
+Running Simulation Boxes in SERIAL, currently [0] box; pres: 50.00000 [Pa], temp: 78.00000 [K]
+==================================
+== RUNNING EQUILIBRATION PHASE ==
+==================================
+CBMC Uses 10 trial positions and 10 trial orientations
+===============================
+== EQUILIBRATION PHASE ENDS ==
+===============================
+Running Simulation Boxes in SERIAL, currently [0] box; pres: 50.00000 [Pa], temp: 78.00000 [K]
+==================================
+==  RUNNING PRODUCTION PHASE   ==
+==================================
+CBMC Uses 10 trial positions and 10 trial orientations
+PRODUCTION Cycle: 0, 243 Adsorbate Molecules, Total Energy: -233758.17845  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 243 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 243, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+PRODUCTION Cycle: 5000, 257 Adsorbate Molecules, Total Energy: -246090.69198  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 257 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 257, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+PRODUCTION Cycle: 10000, 237 Adsorbate Molecules, Total Energy: -229991.77260  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 237 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 237, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+PRODUCTION Cycle: 15000, 248 Adsorbate Molecules, Total Energy: -241662.98242  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 248 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 248, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+======================== MOVE STATISTICS FOR COMPONENT [1] (argon) ========================
+=====================TRANSLATION MOVES=====================
+Translation Performed: 1981374
+Translation Accepted: 285978
+Max Translation: 0.3975285203, 0.3975285203, 0.3975285203
+===========================================================
+=====================SWAP MOVES=====================
+Insertion Performed:   1009085
+Insertion Accepted:    229585
+Deletion Performed:    1010370
+Deletion Accepted:     229555
+Reinsertion Performed: 2019166
+Reinsertion Accepted:  193695
+====================================================
+=====================IDENTITY SWAP MOVES=====================
+=============================================================
+================================================================================================
+============= BLOCK AVERAGES (HEAT OF ADSORPTION: kJ/mol) =========
+COMPONENT [1] (argon)
+BLOCK [0], Blocksize: 4000, Average: -14.75120
+BLOCK [1], Blocksize: 4000, Average: -13.99948
+BLOCK [2], Blocksize: 4000, Average: -14.91695
+BLOCK [3], Blocksize: 4000, Average: -14.40915
+BLOCK [4], Blocksize: 4000, Average: -13.48682
+Overall: Average: -14.31272, ErrorBar: 1.03804
+-----------------------------
+==============================================================
+=================== BLOCK AVERAGES (LOADING: # MOLECULES)=============
+COMPONENT [0] (IRMOF-1.cif)
+BLOCK [0], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [1], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [2], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [3], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [4], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+Overall: Average: 1.00000, ErrorBar: 0.00000
+NO Equation-of-State calculation, no compressibility, cannot calculate Excess Loadings
+----------------------------------------------------------
+COMPONENT [1] (argon)
+BLOCK [0], Blocksize: 4000, Average: 239.12000, ErrorBar: 32.10954
+BLOCK [1], Blocksize: 4000, Average: 244.09175, ErrorBar: 33.85205
+BLOCK [2], Blocksize: 4000, Average: 237.92525, ErrorBar: 30.47905
+BLOCK [3], Blocksize: 4000, Average: 239.27725, ErrorBar: 33.29104
+BLOCK [4], Blocksize: 4000, Average: 249.58400, ErrorBar: 38.14829
+Overall: Average: 241.99965, ErrorBar: 8.68119
+NO Equation-of-State calculation, no compressibility, cannot calculate Excess Loadings
+----------------------------------------------------------
+======================================================================
+=====================BLOCK AVERAGES (LOADING: mg/g)=============
+COMPONENT [0] (IRMOF-1.cif)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [1], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [2], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [3], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [4], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+Overall: Average: 1000.00000, ErrorBar: 0.00003
+----------------------------------------------------------
+COMPONENT [1] (argon)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 193.87208, ErrorBar: 26.03355
+BLOCK [1], Blocksize: 4000, Average: 197.90304, ErrorBar: 27.44633
+BLOCK [2], Blocksize: 4000, Average: 192.90341, ErrorBar: 24.71160
+BLOCK [3], Blocksize: 4000, Average: 193.99957, ErrorBar: 26.99148
+BLOCK [4], Blocksize: 4000, Average: 202.35601, ErrorBar: 30.92961
+Overall: Average: 196.20682, ErrorBar: 7.03848
+----------------------------------------------------------
+==============================================================
+=====================BLOCK AVERAGES (LOADING: mol/kg)=============
+COMPONENT [0] (IRMOF-1.cif)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [1], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [2], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [3], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [4], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+Overall: Average: 0.02030, ErrorBar: 0.00000
+----------------------------------------------------------
+COMPONENT [1] (argon)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 4.85311, ErrorBar: 0.65169
+BLOCK [1], Blocksize: 4000, Average: 4.95402, ErrorBar: 0.68705
+BLOCK [2], Blocksize: 4000, Average: 4.82886, ErrorBar: 0.61859
+BLOCK [3], Blocksize: 4000, Average: 4.85630, ErrorBar: 0.67567
+BLOCK [4], Blocksize: 4000, Average: 5.06549, ErrorBar: 0.77425
+Overall: Average: 4.91156, ErrorBar: 0.17619
+----------------------------------------------------------
+==============================================================
+=====================BLOCK AVERAGES (LOADING: g/L)=============
+COMPONENT [1] (argon)
+Total Unit Cells 1 
+BLOCK [0], Blocksize: 4000, Average: 115.02598, ErrorBar: 15.44593
+BLOCK [1], Blocksize: 4000, Average: 117.41759, ErrorBar: 16.28415
+BLOCK [2], Blocksize: 4000, Average: 114.45126, ErrorBar: 14.66161
+BLOCK [3], Blocksize: 4000, Average: 115.10163, ErrorBar: 16.01428
+BLOCK [4], Blocksize: 4000, Average: 120.05957, ErrorBar: 18.35080
+Overall: Average: 116.41121, ErrorBar: 4.17599
+----------------------------------------------------------
+==============================================================
+=====================BLOCK AVERAGES (VOLUME Å^3)================
+BLOCK [0], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [1], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [2], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [3], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [4], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+Overall: Average: 137899.94184, ErrorBar: 0.00196
+----------------------------------------------------------
+==============================================================
+===============================
+== PRODUCTION PHASE ENDS ==
+===============================
+Work took 245.139812 seconds
+======================================
+CHECKING FINAL ENERGY FOR SYSTEM [0]
+======================================
+======================== CALCULATING FINAL STAGE ENERGY ========================
+****** Calculating VDW + Real Energy (CPU) ******
+Host-Host   VDW: 0.00000; Real: 0.00000
+Host-Guest  VDW: -203805.19458; Real: 0.00000
+Guest-Guest VDW: -8585.44665; Real: 0.00000
+********** PRINTING COMPONENT ENERGIES**********
+Compoent [0-0], VDW: 0.00000, Real: 0.00000
+Compoent [0-1], VDW: -203805.19458, Real: 0.00000
+Compoent [1-1], VDW: -8585.44665, Real: 0.00000
+VDW + Real on the GPU took 0.00058 secs
+Total GPU Energy: 
+====================== DONE CALCULATING FINAL STAGE ENERGY ======================
+======================================
+Random Numbers Regenerated 133 times, offset: 93806, randomsize: 333334
+DNN Feature Preparation Time: 0.00000, DNN Prediction Time: 0.00000
+DNN GPU Time: 0.00000, DNN Sort Time: 0.00000, std::sort Time: 0.00000, Featurization Time: 0.00000
+======================== ENERGY SUMMARY (Simulation 0) =========================
+ *** INITIAL STAGE *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           0.00000 (0.00000 [K])
+VDW [Guest-Guest]:          0.00000 (0.00000 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+ --> Total Ewald [Host-Host]:
+      0.00000 (0.00000 [K])
+ --> Initial Ewald [Host-Host] (excluded):
+      0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               0.00000 (0.00000 [K])
+========================================================================
+ *** CREATE MOLECULE STAGE *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -112238.00011 (-134991.36840 [K])
+VDW [Guest-Guest]:          -6226.52550 (-7488.79343 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+ --> Total Ewald [Host-Host]:
+      0.00000 (0.00000 [K])
+ --> Initial Ewald [Host-Host] (excluded):
+      0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -118464.52561 (-142480.16183 [K])
+========================================================================
+ *** RUNNING DELTA_E (CREATE MOLECULE - INITIAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -112238.00011 (-134991.36840 [K])
+VDW [Guest-Guest]:          -6226.52550 (-7488.79343 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -118464.52561 (-142480.16183 [K])
+========================================================================
+ *** CHECK DELTA_E (CREATE MOLECULE - INITIAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -112238.00011 (-134991.36840 [K])
+VDW [Guest-Guest]:          -6226.52550 (-7488.79343 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -118464.52561 (-142480.16183 [K])
+========================================================================
+ *** FINAL STAGE *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -203805.19458 (-245121.45687 [K])
+VDW [Guest-Guest]:          -8585.44665 (-10325.92519 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+ --> Total Ewald [Host-Host]:
+      0.00000 (0.00000 [K])
+ --> Initial Ewald [Host-Host] (excluded):
+      0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -212390.64123 (-255447.38206 [K])
+========================================================================
+ *** RUNNING DELTA_E (FINAL - CREATE MOLECULE) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -91567.19447 (-110130.08847 [K])
+VDW [Guest-Guest]:          -2358.92115 (-2837.13176 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -93926.11562 (-112967.22022 [K])
+========================================================================
+ *** CHECK DELTA_E (RUNNING FINAL - CREATE MOLECULE) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -91567.19447 (-110130.08847 [K])
+VDW [Guest-Guest]:          -2358.92115 (-2837.13176 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -93926.11562 (-112967.22022 [K])
+========================================================================
+ *** ENERGY DRIFT (CPU FINAL - RUNNING FINAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           0.00000 (0.00000 [K])
+VDW [Guest-Guest]:          0.00000 (0.00000 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               0.00000 (0.00000 [K])
+========================================================================
+ *** GPU DRIFT (GPU FINAL - CPU FINAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -0.00000 (-0.00000 [K])
+VDW [Guest-Guest]:          0.00000 (0.00000 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -0.00000 (-0.00000 [K])
+========================================================================
+================================================================================
+======================== PRODUCTION PHASE AVERAGE ENERGIES (Simulation 0) =========================
+ *** PRODUCTION PHASE AVERAGE ENERGY *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -111539.45238 (-134151.20808 [K])
+VDW [Guest-Guest]:          -3757.56749 (-4519.31767 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -115297.01987 (-138670.52576 [K])
+========================================================================
+ *** PRODUCTION PHASE AVERAGE ENERGY ERRORBAR *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           6763.29353 (8134.37737 [K])
+VDW [Guest-Guest]:          1233.63414 (1483.72174 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               7996.92767 (9618.09912 [K])
+========================================================================
+================================================================================
+DNN Rejection Summary:
+Translation+Rotation: 0
+Reinsertion: 0
+Insertion: 0
+Deletion: 0
+SingleSwap: 0
+DNN Drift Summary:
+Translation+Rotation: 0.00000
+Reinsertion: 0.00000
+Insertion: 0.00000
+Deletion: 0.00000
+SingleSwap: 0.00000
+Summary for simulation 0
+PseudoAtom Type: Zn_a[0], #: 256
+PseudoAtom Type: O_a[1], #: 64
+PseudoAtom Type: O_b[2], #: 768
+PseudoAtom Type: C_a[3], #: 384
+PseudoAtom Type: C_b[4], #: 384
+PseudoAtom Type: C_c[5], #: 768
+PseudoAtom Type: H_a[6], #: 768
+PseudoAtom Type: Ar[7], #: 221

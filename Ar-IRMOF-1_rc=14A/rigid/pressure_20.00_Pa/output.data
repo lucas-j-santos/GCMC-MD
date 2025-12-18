@@ -1,0 +1,542 @@
+================FUGACITY COEFFICIENT CALCULATION================
+Checking: Current Fugacity Coeff for 1 component: 1.00000
+Every Adsorbate Component has fugacity coefficient assigned, skip EOS calculation!
+----------------- MEMORY ALLOCAION STATUS -----------------
+System allocate_sizes are: 3392, 10240
+Component allocate_sizes are: 3392, 10240
+Allocated Blocksum size: 8001, vdw_real size: 8001, fourier_size: 0
+------------------------------------------------------------
+------------------- SIMULATION BOX PARAMETERS -----------------
+Pressure:        0.00000
+Box Volume:      137899.94184
+Box Beta:        0.01542
+Box Temperature: 78.00000
+---------------------------------------------------------------
+======================== CALCULATING INITIAL STAGE ENERGY ========================
+****** Calculating VDW + Real Energy (CPU) ******
+Host-Host   VDW: 0.00000; Real: 0.00000
+Host-Guest  VDW: 0.00000; Real: 0.00000
+Guest-Guest VDW: 0.00000; Real: 0.00000
+********** PRINTING COMPONENT ENERGIES**********
+Compoent [0-0], VDW: 0.00000, Real: 0.00000
+Compoent [0-1], VDW: 0.00000, Real: 0.00000
+Compoent [1-1], VDW: 0.00000, Real: 0.00000
+VDW + Real on the GPU took 0.00001 secs
+Total GPU Energy: 
+====================== DONE CALCULATING INITIAL STAGE ENERGY ======================
+Component 1, Need to create 53 full molecule
+Creating 0 Molecule for Component 1; There are 0 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 1 Molecule for Component 1; There are 1 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 2 Molecule for Component 1; There are 2 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 3 Molecule for Component 1; There are 3 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 4 Molecule for Component 1; There are 4 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 5 Molecule for Component 1; There are 5 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 6 Molecule for Component 1; There are 6 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 7 Molecule for Component 1; There are 7 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 8 Molecule for Component 1; There are 8 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 9 Molecule for Component 1; There are 9 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 10 Molecule for Component 1; There are 10 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 11 Molecule for Component 1; There are 11 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 12 Molecule for Component 1; There are 12 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 13 Molecule for Component 1; There are 13 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 14 Molecule for Component 1; There are 14 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 15 Molecule for Component 1; There are 15 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 16 Molecule for Component 1; There are 16 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 17 Molecule for Component 1; There are 17 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 18 Molecule for Component 1; There are 18 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 19 Molecule for Component 1; There are 19 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 20 Molecule for Component 1; There are 20 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 21 Molecule for Component 1; There are 21 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 22 Molecule for Component 1; There are 22 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 23 Molecule for Component 1; There are 23 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 24 Molecule for Component 1; There are 24 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 25 Molecule for Component 1; There are 25 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 26 Molecule for Component 1; There are 26 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 27 Molecule for Component 1; There are 27 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 28 Molecule for Component 1; There are 28 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 29 Molecule for Component 1; There are 29 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 30 Molecule for Component 1; There are 30 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 31 Molecule for Component 1; There are 31 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 32 Molecule for Component 1; There are 32 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 33 Molecule for Component 1; There are 33 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 34 Molecule for Component 1; There are 34 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 35 Molecule for Component 1; There are 35 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 36 Molecule for Component 1; There are 36 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 37 Molecule for Component 1; There are 37 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 38 Molecule for Component 1; There are 38 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 39 Molecule for Component 1; There are 39 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 40 Molecule for Component 1; There are 40 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 41 Molecule for Component 1; There are 41 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 42 Molecule for Component 1; There are 42 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 43 Molecule for Component 1; There are 43 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 44 Molecule for Component 1; There are 44 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 45 Molecule for Component 1; There are 45 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 46 Molecule for Component 1; There are 46 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 47 Molecule for Component 1; There are 47 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 48 Molecule for Component 1; There are 48 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 49 Molecule for Component 1; There are 49 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 50 Molecule for Component 1; There are 50 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 51 Molecule for Component 1; There are 51 Molecules of that component in the System
+Delta E in creating molecules:
+Creating 52 Molecule for Component 1; There are 52 Molecules of that component in the System
+Delta E in creating molecules:
+======================== CALCULATING CREATE_MOLECULE STAGE ENERGY ========================
+****** Calculating VDW + Real Energy (CPU) ******
+Host-Host   VDW: 0.00000; Real: 0.00000
+Host-Guest  VDW: -33191.82853; Real: 0.00000
+Guest-Guest VDW: -700.83426; Real: 0.00000
+********** PRINTING COMPONENT ENERGIES**********
+Compoent [0-0], VDW: 0.00000, Real: 0.00000
+Compoent [0-1], VDW: -33191.82853, Real: 0.00000
+Compoent [1-1], VDW: -700.83426, Real: 0.00000
+VDW + Real on the GPU took 0.00025 secs
+Total GPU Energy: 
+====================== DONE CALCULATING CREATE_MOLECULE STAGE ENERGY ======================
+Running Simulation Boxes in SERIAL, currently [0] box; pres: 20.00000 [Pa], temp: 78.00000 [K]
+==================================
+== RUNNING INITIALIZATION PHASE ==
+==================================
+CBMC Uses 10 trial positions and 10 trial orientations
+Box 0, Volume: 137899.94184
+Total Volume: 137899.94184
+INITIALIZATION Cycle: 0, 54 Adsorbate Molecules, Total Energy: -37041.05378  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 54 Molecules  ||  
+======================== MOVE STATISTICS FOR COMPONENT [1] (argon) ========================
+=====================TRANSLATION MOVES=====================
+Translation Performed: 153257
+Translation Accepted: 2460
+Max Translation: 3.0933145229, 3.0933145229, 3.0933145229
+===========================================================
+=====================SWAP MOVES=====================
+Insertion Performed:   85850
+Insertion Accepted:    19746
+Deletion Performed:    85616
+Deletion Accepted:     19708
+Reinsertion Performed: 171287
+Reinsertion Accepted:  17470
+====================================================
+=====================IDENTITY SWAP MOVES=====================
+=============================================================
+================================================================================================
+===============================
+== INITIALIZATION PHASE ENDS ==
+===============================
+Running Simulation Boxes in SERIAL, currently [0] box; pres: 20.00000 [Pa], temp: 78.00000 [K]
+==================================
+== RUNNING EQUILIBRATION PHASE ==
+==================================
+CBMC Uses 10 trial positions and 10 trial orientations
+===============================
+== EQUILIBRATION PHASE ENDS ==
+===============================
+Running Simulation Boxes in SERIAL, currently [0] box; pres: 20.00000 [Pa], temp: 78.00000 [K]
+==================================
+==  RUNNING PRODUCTION PHASE   ==
+==================================
+CBMC Uses 10 trial positions and 10 trial orientations
+PRODUCTION Cycle: 0, 93 Adsorbate Molecules, Total Energy: -91776.34720  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 93 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 93, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+PRODUCTION Cycle: 5000, 93 Adsorbate Molecules, Total Energy: -90922.76528  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 93 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 93, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+PRODUCTION Cycle: 10000, 101 Adsorbate Molecules, Total Energy: -100089.52366  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 101 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 101, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+PRODUCTION Cycle: 15000, 117 Adsorbate Molecules, Total Energy: -115506.60078  ||  Component 0 [IRMOF-1.cif], 1 Molecules  ||  Component 1 [argon], 117 Molecules  ||  
+Printing: Component: 0 [ IRMOF-1.cif ], NumMol: 1, Molsize: 3392
+Printing: Component: 1 [ argon ], NumMol: 117, Molsize: 1
+Component 0, Molsize: 3392
+Component 1, Molsize: 1
+======================== MOVE STATISTICS FOR COMPONENT [1] (argon) ========================
+=====================TRANSLATION MOVES=====================
+Translation Performed: 841022
+Translation Accepted: 123285
+Max Translation: 0.3975285203, 0.3975285203, 0.3975285203
+===========================================================
+=====================SWAP MOVES=====================
+Insertion Performed:   428220
+Insertion Accepted:    98723
+Deletion Performed:    428822
+Deletion Accepted:     98677
+Reinsertion Performed: 857760
+Reinsertion Accepted:  86560
+====================================================
+=====================IDENTITY SWAP MOVES=====================
+=============================================================
+================================================================================================
+============= BLOCK AVERAGES (HEAT OF ADSORPTION: kJ/mol) =========
+COMPONENT [1] (argon)
+BLOCK [0], Blocksize: 4000, Average: -13.84440
+BLOCK [1], Blocksize: 4000, Average: -14.46645
+BLOCK [2], Blocksize: 4000, Average: -14.52208
+BLOCK [3], Blocksize: 4000, Average: -14.69561
+BLOCK [4], Blocksize: 4000, Average: -14.74681
+Overall: Average: -14.45507, ErrorBar: 0.64530
+-----------------------------
+==============================================================
+=================== BLOCK AVERAGES (LOADING: # MOLECULES)=============
+COMPONENT [0] (IRMOF-1.cif)
+BLOCK [0], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [1], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [2], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [3], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+BLOCK [4], Blocksize: 4000, Average: 1.00000, ErrorBar: 0.00000
+Overall: Average: 1.00000, ErrorBar: 0.00000
+NO Equation-of-State calculation, no compressibility, cannot calculate Excess Loadings
+----------------------------------------------------------
+COMPONENT [1] (argon)
+BLOCK [0], Blocksize: 4000, Average: 101.65375, ErrorBar: 19.82679
+BLOCK [1], Blocksize: 4000, Average: 102.67025, ErrorBar: 17.72727
+BLOCK [2], Blocksize: 4000, Average: 100.51700, ErrorBar: 18.12156
+BLOCK [3], Blocksize: 4000, Average: 101.78275, ErrorBar: 17.57880
+BLOCK [4], Blocksize: 4000, Average: 103.13350, ErrorBar: 17.57603
+Overall: Average: 101.95145, ErrorBar: 1.80857
+NO Equation-of-State calculation, no compressibility, cannot calculate Excess Loadings
+----------------------------------------------------------
+======================================================================
+=====================BLOCK AVERAGES (LOADING: mg/g)=============
+COMPONENT [0] (IRMOF-1.cif)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [1], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [2], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [3], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+BLOCK [4], Blocksize: 4000, Average: 1000.00000, ErrorBar: -nan
+Overall: Average: 1000.00000, ErrorBar: 0.00003
+----------------------------------------------------------
+COMPONENT [1] (argon)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 82.41813, ErrorBar: 16.07503
+BLOCK [1], Blocksize: 4000, Average: 83.24228, ErrorBar: 14.37279
+BLOCK [2], Blocksize: 4000, Average: 81.49649, ErrorBar: 14.69247
+BLOCK [3], Blocksize: 4000, Average: 82.52272, ErrorBar: 14.25242
+BLOCK [4], Blocksize: 4000, Average: 83.61787, ErrorBar: 14.25017
+Overall: Average: 82.65950, ErrorBar: 1.46634
+----------------------------------------------------------
+==============================================================
+=====================BLOCK AVERAGES (LOADING: mol/kg)=============
+COMPONENT [0] (IRMOF-1.cif)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [1], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [2], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [3], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+BLOCK [4], Blocksize: 4000, Average: 0.02030, ErrorBar: -nan
+Overall: Average: 0.02030, ErrorBar: 0.00000
+----------------------------------------------------------
+COMPONENT [1] (argon)
+Framework component 0, molar mass: 49271.48800
+Framework total mass: 49271.48800
+BLOCK [0], Blocksize: 4000, Average: 2.06314, ErrorBar: 0.40240
+BLOCK [1], Blocksize: 4000, Average: 2.08377, ErrorBar: 0.35979
+BLOCK [2], Blocksize: 4000, Average: 2.04006, ErrorBar: 0.36779
+BLOCK [3], Blocksize: 4000, Average: 2.06575, ErrorBar: 0.35677
+BLOCK [4], Blocksize: 4000, Average: 2.09317, ErrorBar: 0.35672
+Overall: Average: 2.06918, ErrorBar: 0.03671
+----------------------------------------------------------
+==============================================================
+=====================BLOCK AVERAGES (LOADING: g/L)=============
+COMPONENT [1] (argon)
+Total Unit Cells 1 
+BLOCK [0], Blocksize: 4000, Average: 48.89939, ErrorBar: 9.53745
+BLOCK [1], Blocksize: 4000, Average: 49.38837, ErrorBar: 8.52750
+BLOCK [2], Blocksize: 4000, Average: 48.35257, ErrorBar: 8.71717
+BLOCK [3], Blocksize: 4000, Average: 48.96145, ErrorBar: 8.45608
+BLOCK [4], Blocksize: 4000, Average: 49.61121, ErrorBar: 8.45475
+Overall: Average: 49.04260, ErrorBar: 0.86999
+----------------------------------------------------------
+==============================================================
+=====================BLOCK AVERAGES (VOLUME Å^3)================
+BLOCK [0], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [1], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [2], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [3], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+BLOCK [4], Blocksize: 4000, Average: 137899.94184, ErrorBar: -nan
+Overall: Average: 137899.94184, ErrorBar: 0.00196
+----------------------------------------------------------
+==============================================================
+===============================
+== PRODUCTION PHASE ENDS ==
+===============================
+Work took 103.002612 seconds
+======================================
+CHECKING FINAL ENERGY FOR SYSTEM [0]
+======================================
+======================== CALCULATING FINAL STAGE ENERGY ========================
+****** Calculating VDW + Real Energy (CPU) ******
+Host-Host   VDW: 0.00000; Real: 0.00000
+Host-Guest  VDW: -97739.45269; Real: 0.00000
+Guest-Guest VDW: -974.78700; Real: 0.00000
+********** PRINTING COMPONENT ENERGIES**********
+Compoent [0-0], VDW: 0.00000, Real: 0.00000
+Compoent [0-1], VDW: -97739.45269, Real: 0.00000
+Compoent [1-1], VDW: -974.78700, Real: 0.00000
+VDW + Real on the GPU took 0.00032 secs
+Total GPU Energy: 
+====================== DONE CALCULATING FINAL STAGE ENERGY ======================
+======================================
+Random Numbers Regenerated 56 times, offset: 197940, randomsize: 333334
+DNN Feature Preparation Time: 0.00000, DNN Prediction Time: 0.00000
+DNN GPU Time: 0.00000, DNN Sort Time: 0.00000, std::sort Time: 0.00000, Featurization Time: 0.00000
+======================== ENERGY SUMMARY (Simulation 0) =========================
+ *** INITIAL STAGE *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           0.00000 (0.00000 [K])
+VDW [Guest-Guest]:          0.00000 (0.00000 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+ --> Total Ewald [Host-Host]:
+      0.00000 (0.00000 [K])
+ --> Initial Ewald [Host-Host] (excluded):
+      0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               0.00000 (0.00000 [K])
+========================================================================
+ *** CREATE MOLECULE STAGE *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -33191.82853 (-39920.61822 [K])
+VDW [Guest-Guest]:          -700.83426 (-842.91038 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+ --> Total Ewald [Host-Host]:
+      0.00000 (0.00000 [K])
+ --> Initial Ewald [Host-Host] (excluded):
+      0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -33892.66279 (-40763.52861 [K])
+========================================================================
+ *** RUNNING DELTA_E (CREATE MOLECULE - INITIAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -33191.82853 (-39920.61822 [K])
+VDW [Guest-Guest]:          -700.83426 (-842.91038 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -33892.66279 (-40763.52861 [K])
+========================================================================
+ *** CHECK DELTA_E (CREATE MOLECULE - INITIAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -33191.82853 (-39920.61822 [K])
+VDW [Guest-Guest]:          -700.83426 (-842.91038 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -33892.66279 (-40763.52861 [K])
+========================================================================
+ *** FINAL STAGE *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -97739.45269 (-117553.61332 [K])
+VDW [Guest-Guest]:          -974.78700 (-1172.39999 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+ --> Total Ewald [Host-Host]:
+      0.00000 (0.00000 [K])
+ --> Initial Ewald [Host-Host] (excluded):
+      0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -98714.23969 (-118726.01332 [K])
+========================================================================
+ *** RUNNING DELTA_E (FINAL - CREATE MOLECULE) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -64547.62416 (-77632.99510 [K])
+VDW [Guest-Guest]:          -273.95274 (-329.48961 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -64821.57690 (-77962.48471 [K])
+========================================================================
+ *** CHECK DELTA_E (RUNNING FINAL - CREATE MOLECULE) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -64547.62416 (-77632.99510 [K])
+VDW [Guest-Guest]:          -273.95274 (-329.48961 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -64821.57690 (-77962.48471 [K])
+========================================================================
+ *** ENERGY DRIFT (CPU FINAL - RUNNING FINAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -0.00000 (-0.00000 [K])
+VDW [Guest-Guest]:          -0.00000 (-0.00000 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -0.00000 (-0.00000 [K])
+========================================================================
+ *** GPU DRIFT (GPU FINAL - CPU FINAL) *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           0.00000 (0.00000 [K])
+VDW [Guest-Guest]:          -0.00000 (-0.00000 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               0.00000 (0.00000 [K])
+========================================================================
+================================================================================
+======================== PRODUCTION PHASE AVERAGE ENERGIES (Simulation 0) =========================
+ *** PRODUCTION PHASE AVERAGE ENERGY *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           -66064.59886 (-79457.49741 [K])
+VDW [Guest-Guest]:          -553.77003 (-666.03266 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               -66618.36889 (-80123.53007 [K])
+========================================================================
+ *** PRODUCTION PHASE AVERAGE ENERGY ERRORBAR *** 
+========================================================================
+VDW [Host-Host]:            0.00000 (0.00000 [K])
+VDW [Host-Guest]:           1922.46856 (2312.19962 [K])
+VDW [Guest-Guest]:          71.14890 (85.57252 [K])
+Real Coulomb [Host-Host]:   0.00000 (0.00000 [K])
+Real Coulomb [Host-Guest]:  0.00000 (0.00000 [K])
+Real Coulomb [Guest-Guest]: 0.00000 (0.00000 [K])
+Ewald [Host-Host]:          0.00000 (0.00000 [K])
+Ewald [Host-Guest]:         0.00000 (0.00000 [K])
+Ewald [Guest-Guest]:        0.00000 (0.00000 [K])
+DNN Energy:                 0.00000 (0.00000 [K])
+Tail Correction Energy:     0.00000 (0.00000 [K])
+Total Energy:               1993.61746 (2397.77213 [K])
+========================================================================
+================================================================================
+DNN Rejection Summary:
+Translation+Rotation: 0
+Reinsertion: 0
+Insertion: 0
+Deletion: 0
+SingleSwap: 0
+DNN Drift Summary:
+Translation+Rotation: 0.00000
+Reinsertion: 0.00000
+Insertion: 0.00000
+Deletion: 0.00000
+SingleSwap: 0.00000
+Summary for simulation 0
+PseudoAtom Type: Zn_a[0], #: 256
+PseudoAtom Type: O_a[1], #: 64
+PseudoAtom Type: O_b[2], #: 768
+PseudoAtom Type: C_a[3], #: 384
+PseudoAtom Type: C_b[4], #: 384
+PseudoAtom Type: C_c[5], #: 768
+PseudoAtom Type: H_a[6], #: 768
+PseudoAtom Type: Ar[7], #: 99

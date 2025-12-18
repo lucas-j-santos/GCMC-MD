@@ -1,0 +1,7 @@
+[ moleculetype ]
+; name  nrexcl
+AR      3
+
+[ atoms ]
+; nr  type  resnr  resid  atom  cgnr  charge   mass
+  1   Ar      1     AR     Ar     1    0.000  39.948
